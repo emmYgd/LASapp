@@ -1,2 +1,3 @@
 # LASapp
-Mobile App with Ionic_Framework as the lead front-end framework and a shade of backend
+Life After School, an initiative to help empower youth especially students in terms of skills acquisition and preparation for integration into the society     
+Mobile App with Ionic_Framework as the lead front-end framework and a shade of OOP/Php + Redbean ORM backend...
